@@ -3,7 +3,7 @@
 
 **`Graduando em Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Max Batista, tenho 37 anos e sou de Araçatuba -SP.Tenho formação Técnica em Informática e Administração e um Bacharelado em Administração. Atualmente, estou cursando primeiro semestre de Análise e Desenvolvimento de Sistemas na FATEC. 
+Me chamo Max Batista, tenho 37 anos e sou de Araçatuba -SP. Tenho formação Técnica em Informática e Administração e um Bacharelado em Administração. Atualmente, estou cursando primeiro semestre de Análise e Desenvolvimento de Sistemas na FATEC. 
 
     
 
