@@ -4,7 +4,6 @@
 **`Graduando em Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Max Batista, tenho 37 anos e sou de Araçatuba -SP. Tenho formação Técnica em Informática e Administração e um Bacharelado em Administração. Atualmente, estou cursando primeiro semestre de Análise e Desenvolvimento de Sistemas na FATEC. 
-
      <p align="left">
       <a href="https://github.com/maxbatista?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maxbatista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
