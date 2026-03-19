@@ -5,7 +5,13 @@
 
 Me chamo Max Batista, tenho 37 anos e sou de Araçatuba -SP. Tenho formação Técnica em Informática e Administração e um Bacharelado em Administração. Atualmente, estou cursando primeiro semestre de Análise e Desenvolvimento de Sistemas na FATEC. 
 
-    
+     <p align="left">
+      <a href="https://github.com/maxbatista?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maxbatista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/maxbatista?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/maxbatista?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 
 ---
 
